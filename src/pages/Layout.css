@@ -1,0 +1,38 @@
+
+.navbar-brand{
+    font-size: xx-large;
+    
+}
+#navbarSupportedContent{
+    margin-left:3%;
+    font-size: large;
+}
+.navbar.bg-transparent {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+  }
+  body {
+    padding-top: 70px; /* Adjust based on your navbar's height */
+  }  
+.d-flex{
+    width: 40%;
+    height: 20%;
+    margin-left:3%;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.container-fluid{
+    font-size: 5px;
+}
+.destination-label {
+    font-size: 1rem; /* Adjust to desired size */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Align items to the bottom */
+    height: 100%; /* Make sure the container takes up the full height */
+    margin-bottom:0px;
+}
+h4 {
+    margin-bottom:
+    0px; /* Push the heading up */
+  }
